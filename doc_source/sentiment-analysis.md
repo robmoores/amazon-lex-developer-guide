@@ -12,14 +12,14 @@ The following is an example of the `sentimentResponse` field returned as part of
 
 ```
 {
-    "SentimentScore": 
+    "sentimentScore": 
         "{
         Mixed: 0.030585512690246105,
         Positive: 0.94992071056365967,
         Neutral: 0.0141543131828308,
         Negative: 0.00893945890665054
         }",
-    "SentimentLabel": "POSITIVE"
+    "sentimentLabel": "POSITIVE"
 }
 ```
 
